@@ -1,0 +1,620 @@
+[
+  {
+    "name": "Making Music",
+    "startDate": "2023-05-01",
+    "endDate": "2023-07-31",
+    "isCurrent": true,
+    "sets": [
+      {
+        "name": "Symphony Store",
+        "number": 1,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 1,
+            "isGold": false,
+            "name": "Melody Lane"
+          },
+          {
+            "number": 2,
+            "stars": 1,
+            "isGold": false,
+            "name": "Big Piano!"
+          },
+          {
+            "number": 3,
+            "stars": 1,
+            "isGold": false,
+            "name": "Tune Tour"
+          },
+          {
+            "number": 4,
+            "stars": 1,
+            "isGold": false,
+            "name": "Tubad!"
+          },
+          {
+            "number": 5,
+            "stars": 1,
+            "isGold": false,
+            "name": "Can't Beat It"
+          },
+          {
+            "number": 6,
+            "stars": 1,
+            "isGold": false,
+            "name": "Mewsic"
+          },
+          {
+            "number": 7,
+            "stars": 1,
+            "isGold": false,
+            "name": "Off-Kilter"
+          },
+          {
+            "number": 8,
+            "stars": 1,
+            "isGold": false,
+            "name": "Gong Pals"
+          },
+          {
+            "number": 9,
+            "stars": 1,
+            "isGold": false,
+            "name": "A Natural"
+          }
+        ]
+      },
+      {
+        "name": "Musical Memoir",
+        "number": 2,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 1,
+            "isGold": false,
+            "name": "Got The Role"
+          },
+          {
+            "number": 2,
+            "stars": 1,
+            "isGold": false,
+            "name": "My Forte"
+          },
+          {
+            "number": 3,
+            "stars": 1,
+            "isGold": false,
+            "name": "Arpeggios"
+          },
+          {
+            "number": 4,
+            "stars": 1,
+            "isGold": false,
+            "name": "Rehearsal"
+          },
+          {
+            "number": 5,
+            "stars": 1,
+            "isGold": false,
+            "name": "Mic Check"
+          },
+          {
+            "number": 6,
+            "stars": 1,
+            "isGold": false,
+            "name": "Sew Cute"
+          },
+          {
+            "number": 7,
+            "stars": 1,
+            "isGold": false,
+            "name": "Opening Night"
+          },
+          {
+            "number": 8,
+            "stars": 1,
+            "isGold": false,
+            "name": "Spectacle!"
+          },
+          {
+            "number": 9,
+            "stars": 2,
+            "isGold": false,
+            "name": "Curtain Call"
+          }
+        ]
+      },
+      {
+        "name": "Swingin' Notes",
+        "number": 3,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 1,
+            "isGold": false,
+            "name": "All That Jazz"
+          },
+          {
+            "number": 2,
+            "stars": 1,
+            "isGold": false,
+            "name": "Star Employee"
+          },
+          {
+            "number": 3,
+            "stars": 1,
+            "isGold": false,
+            "name": "Jazz It Up"
+          },
+          {
+            "number": 4,
+            "stars": 1,
+            "isGold": false,
+            "name": "A Song to Sing"
+          },
+          {
+            "number": 5,
+            "stars": 1,
+            "isGold": false,
+            "name": "Stage Dream"
+          },
+          {
+            "number": 6,
+            "stars": 1,
+            "isGold": false,
+            "name": "Solo Serenade"
+          },
+          {
+            "number": 7,
+            "stars": 1,
+            "isGold": false,
+            "name": "A Star Is Born"
+          },
+          {
+            "number": 8,
+            "stars": 2,
+            "isGold": false,
+            "name": "Meet the Band"
+          },
+          {
+            "number": 9,
+            "stars": 2,
+            "isGold": false,
+            "name": "Dream Come True"
+          }
+        ]
+      },
+      {
+        "name": "Ludwig Van Monopoly",
+        "number": 4,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 1,
+            "isGold": false,
+            "name": "Baby Ludwig"
+          },
+          {
+            "number": 2,
+            "stars": 1,
+            "isGold": false,
+            "name": "Young Promise"
+          },
+          {
+            "number": 3,
+            "stars": 1,
+            "isGold": false,
+            "name": "#1 Fan"
+          },
+          {
+            "number": 4,
+            "stars": 1,
+            "isGold": false,
+            "name": "Fur Elise"
+          },
+          {
+            "number": 5,
+            "stars": 1,
+            "isGold": false,
+            "name": "Clair de Lune"
+          },
+          {
+            "number": 6,
+            "stars": 1,
+            "isGold": false,
+            "name": "Symphony"
+          },
+          {
+            "number": 7,
+            "stars": 2,
+            "isGold": false,
+            "name": "Resilience"
+          },
+          {
+            "number": 8,
+            "stars": 2,
+            "isGold": false,
+            "name": "Splendid!"
+          },
+          {
+            "number": 9,
+            "stars": 2,
+            "isGold": false,
+            "name": "Mr. Maestro"
+          }
+        ]
+      },
+      {
+        "name": "Musical Bonds",
+        "number": 5,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 1,
+            "isGold": false,
+            "name": "Melodic Legacy"
+          },
+          {
+            "number": 2,
+            "stars": 1,
+            "isGold": false,
+            "name": "Carpool!"
+          },
+          {
+            "number": 3,
+            "stars": 1,
+            "isGold": false,
+            "name": "Bonfire Tunes"
+          },
+          {
+            "number": 4,
+            "stars": 1,
+            "isGold": false,
+            "name": "Cool Kids"
+          },
+          {
+            "number": 5,
+            "stars": 1,
+            "isGold": false,
+            "name": "Proud Mom"
+          },
+          {
+            "number": 6,
+            "stars": 2,
+            "isGold": false,
+            "name": "Mixtape"
+          },
+          {
+            "number": 7,
+            "stars": 2,
+            "isGold": false,
+            "name": "National Notes"
+          },
+          {
+            "number": 8,
+            "stars": 2,
+            "isGold": false,
+            "name": "Sacred Music"
+          },
+          {
+            "number": 9,
+            "stars": 2,
+            "isGold": false,
+            "name": "First Dance"
+          }
+        ]
+      },
+      {
+        "name": "World Music",
+        "number": 6,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 1,
+            "isGold": false,
+            "name": "Norse Rhythm"
+          },
+          {
+            "number": 2,
+            "stars": 1,
+            "isGold": false,
+            "name": "Mexico Lindo"
+          },
+          {
+            "number": 3,
+            "stars": 1,
+            "isGold": false,
+            "name": "Musical Chord"
+          },
+          {
+            "number": 4,
+            "stars": 2,
+            "isGold": false,
+            "name": "Sitar Song"
+          },
+          {
+            "number": 5,
+            "stars": 2,
+            "isGold": false,
+            "name": "Play Together"
+          },
+          {
+            "number": 6,
+            "stars": 2,
+            "isGold": false,
+            "name": "Ocarina of Mogul"
+          },
+          {
+            "number": 7,
+            "stars": 2,
+            "isGold": false,
+            "name": "Edo Music"
+          },
+          {
+            "number": 8,
+            "stars": 2,
+            "isGold": false,
+            "name": "Ukelele Paradise"
+          },
+          {
+            "number": 9,
+            "stars": 3,
+            "isGold": false,
+            "name": "Chime Bells"
+          }
+        ]
+      },
+      {
+        "name": "Boy Band",
+        "number": 7,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 1,
+            "isGold": false,
+            "name": "Studio Sesh"
+          },
+          {
+            "number": 2,
+            "stars": 1,
+            "isGold": false,
+            "name": "Press Fun"
+          },
+          {
+            "number": 3,
+            "stars": 2,
+            "isGold": false,
+            "name": "New Drop"
+          },
+          {
+            "number": 4,
+            "stars": 2,
+            "isGold": false,
+            "name": "Cover Boys"
+          },
+          {
+            "number": 5,
+            "stars": 2,
+            "isGold": false,
+            "name": "Tycoon Stars"
+          },
+          {
+            "number": 6,
+            "stars": 2,
+            "isGold": false,
+            "name": "Talk Show"
+          },
+          {
+            "number": 7,
+            "stars": 2,
+            "isGold": false,
+            "name": "Jam Packed"
+          },
+          {
+            "number": 8,
+            "stars": 3,
+            "isGold": false,
+            "name": "Superfandom"
+          },
+          {
+            "number": 9,
+            "stars": 3,
+            "isGold": false,
+            "name": "Show Time!"
+          }
+        ]
+      },
+      {
+        "name": "Crescendo Academy",
+        "number": 8,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 2,
+            "isGold": false,
+            "name": "Notes Avenue"
+          },
+          {
+            "number": 2,
+            "stars": 2,
+            "isGold": false,
+            "name": "Clean Routine!"
+          },
+          {
+            "number": 3,
+            "stars": 2,
+            "isGold": false,
+            "name": "Flute Magic"
+          },
+          {
+            "number": 4,
+            "stars": 2,
+            "isGold": false,
+            "name": "High Notes"
+          },
+          {
+            "number": 5,
+            "stars": 2,
+            "isGold": false,
+            "name": "Sharp!"
+          },
+          {
+            "number": 6,
+            "stars": 2,
+            "isGold": false,
+            "name": "Detache"
+          },
+          {
+            "number": 7,
+            "stars": 3,
+            "isGold": false,
+            "name": "Robotic!"
+          },
+          {
+            "number": 8,
+            "stars": 3,
+            "isGold": false,
+            "name": "Don't Fret"
+          },
+          {
+            "number": 9,
+            "stars": 3,
+            "isGold": false,
+            "name": "Drumroll"
+          }
+        ]
+      },
+      {
+        "name": "Karaoke Night",
+        "number": 9,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 2,
+            "isGold": false,
+            "name": "Stage Fright"
+          },
+          {
+            "number": 2,
+            "stars": 2,
+            "isGold": false,
+            "name": "Best Spot"
+          },
+          {
+            "number": 3,
+            "stars": 2,
+            "isGold": false,
+            "name": "The KJ"
+          },
+          {
+            "number": 4,
+            "stars": 2,
+            "isGold": false,
+            "name": "Sing It Out"
+          },
+          {
+            "number": 5,
+            "stars": 2,
+            "isGold": false,
+            "name": "Invested"
+          },
+          {
+            "number": 6,
+            "stars": 3,
+            "isGold": false,
+            "name": "Gentle Nudge"
+          },
+          {
+            "number": 7,
+            "stars": 3,
+            "isGold": false,
+            "name": "Set The Stage"
+          },
+          {
+            "number": 8,
+            "stars": 3,
+            "isGold": false,
+            "name": "Karaoke Dokey"
+          },
+          {
+            "number": 9,
+            "stars": 4,
+            "isGold": false,
+            "name": "Sweet Duets"
+          }
+        ]
+      },
+      {
+        "name": "Country Roads",
+        "number": 10,
+        "isComplete": false,
+        "cards": [
+          {
+            "number": 1,
+            "stars": 2,
+            "isGold": false,
+            "name": "Hay Girl"
+          },
+          {
+            "number": 2,
+            "stars": 2,
+            "isGold": false,
+            "name": "Saddle Up!"
+          },
+          {
+            "number": 3,
+            "stars": 2,
+            "isGold": false,
+            "name": "Pickin' Girl"
+          },
+          {
+            "number": 4,
+            "stars": 2,
+            "isGold": false,
+            "name": "Steeled Lips"
+          },
+          {
+            "number": 5,
+            "stars": 2,
+            "isGold": false,
+            "name": "Country Call"
+          },
+          {
+            "number": 6,
+            "stars": 3,
+            "isGold": false,
+            "name": "Another Coin"
+          },
+          {
+            "number": 7,
+            "stars": 3,
+            "isGold": false,
+            "name": "Solid Design"
+          },
+          {
+            "number": 8,
+            "stars": 4,
+            "isGold": false,
+            "name": "Honky-Tonk"
+          },
+          {
+            "number": 9,
+            "stars": 4,
+            "isGold": false,
+            "name": "Western Star"
+          }
+		  ]
+        ]
+      },
+  ]
+  
